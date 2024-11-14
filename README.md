@@ -7,3 +7,5 @@
 - Option to reset the game at any time
 - Highlights the winner or indicates a draw
 
+## Screenshots
+![Tic Tac Toe Game Screenshot](assets/screenshot.png)
